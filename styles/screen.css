@@ -48,3 +48,8 @@ h1 strong {
 img.about {
     opacity: 0.5;
 }
+
+#books {
+    table-layout: auto;
+    width: 800px;
+}
