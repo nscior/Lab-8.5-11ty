@@ -49,7 +49,7 @@ img.about {
     opacity: 0.5;
 }
 
-#books {
+table {
     table-layout: auto;
     width: 800px;
 }
